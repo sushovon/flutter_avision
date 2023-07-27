@@ -180,7 +180,7 @@ class _TopicWiseQuizPageState extends State<TopicWiseQuizPage> {
                         text: "Attempt",
                         style: TextStyle(color: Colors.black)), */
                     WidgetSpan(
-                      child: Icon(Icons.arrow_forward, size: 14),
+                      child: Icon(Icons.arrow_back_ios_new_rounded, size: 14),
                     ),
                   ],
                 ),
